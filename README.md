@@ -68,6 +68,10 @@ project/
 ```
 ## Live Demo
 Try the deployed project here: [Deployed model](https://davidrosario26387-abex-multi-agent-seo-blog-g-projectapp-b8hrsk.streamlit.app/)
+## Block Diagram
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d50a57e7-3dbb-45d2-a1d1-314b0e07727e" alt="Untitled Diagram drawio"  width="60%">
+</p>
 
 ## Project screenshots:
 ![1](https://github.com/user-attachments/assets/b439ba34-4726-47a4-8967-ad6567c7282e)
